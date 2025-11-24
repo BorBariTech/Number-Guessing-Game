@@ -1,0 +1,15 @@
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\gogob\Number-Guessing-Game\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
